@@ -1,0 +1,19 @@
+body {
+    color: white;
+}
+
+p {
+    color: grey; 
+}
+
+h1 {
+    background-color: violet;
+}
+
+h3 {
+    background-color: blue
+}
+
+h1 + h3 {
+    color: red; 
+}
